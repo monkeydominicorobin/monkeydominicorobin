@@ -2,7 +2,7 @@
 - 👀 I’m interested in Future Technology
 - 🌱 Starting with a real Hacker Mindset
 - 💞️ Loving and ending with veritable Hacker Mindset
-- 📫 You can use my Electronic Mail for comms.
+- 📫 You can use my Electronic Mail address in case you want some form of interaction
 
 <!---
 monkeydominicorobin/monkeydominicorobin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
