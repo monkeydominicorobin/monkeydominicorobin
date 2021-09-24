@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rommel Dominguez
 - 👀 I’m interested in Future Technology and More
-- 🌱 Starting with a real Hacker Mindset
-- 💞️ Loving and ending with veritable Hacker Mindset
+- 🌱 Starting with a real Hacker/Programmer/Coder Mindset
+- 💞️ Loving and ending with veritable Hacker/Programmer/Coder Mindset
 - 📫 You can use my Electronic Mail address in case you want some form of interaction
 
 <!---
